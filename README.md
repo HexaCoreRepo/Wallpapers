@@ -1,5 +1,5 @@
 # Wallpapers
-## IceCool Tech Wallpaper Collection!
+## IceCool Tech's Wallpaper Collection!
 
 This collection is updated regularly with new wallpapers!
 
