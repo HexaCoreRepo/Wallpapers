@@ -1,8 +1,11 @@
-# Wallpapers
-## IceCool Tech's Wallpaper Collection!
+# IceCool Tech Wallpaper Collection
+## Wallpapers Created By IceCool Tech
 
 This collection is updated regularly with new wallpapers!
 
-All wallpapers are created by IceCool Tech.
+## Popular Wallpapers
 
+1) Blossom
+2) Abstract
+3) Aqua
 
