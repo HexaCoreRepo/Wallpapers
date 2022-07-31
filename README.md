@@ -1,17 +1,28 @@
-# IceCool Tech Wallpaper Collection
-## Wallpapers Created By IceCool Tech
+# IceCool Tech Wallpaper Catalog 
 
-This collection is updated regularly with new wallpapers!
+All wallpapers are made by IceCool Tech and are free to use. The sale of this catalog or any individual wallpaper is strictly prohibited.
 
-## Popular Wallpapers
+Please contact me on Twitter @IceCoolTech or email me at icecooltech1@gmail.com if you'd like to publish these wallpapers to your own public collection.
+
+# Popular Wallpapers
 
 1) Blossom
 2) Abstract
 3) Aqua
 
-## Changelog
+# Changelog
 
-# 1.1.0
+## 1.1.1
+- README updated to 1.1.1 with the following changes:
+  - Updated headers
+  - Added text regarding the prohibition of sale
+  - Added contact information
+  - Minor fixes
+- Catalog release can now be found next to README.md 
+  
+
+## 1.1.0
+- New Bloom Prism, Bloom Graphite, and Bloom Graphite (Frosted) wallpapers
 - Added "Changelog" to README
 - Updated naming of some older wallpapers so they're better represented in the catalog
 - Removed the following wallpapers:
@@ -23,6 +34,6 @@ This collection is updated regularly with new wallpapers!
   - Fabric
  
 
-# 1.0.0
+## 1.0.0
 - Initial Release
 
