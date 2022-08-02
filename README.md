@@ -2,7 +2,7 @@
 
 All wallpapers are made by IceCool Tech and are free to use. The sale of this catalog or any individual wallpaper is strictly prohibited.
 
-Please contact me on Twitter [@IceCoolTech] (https://twitter.com/IceCoolTech) or email me at icecooltech1@gmail.com if you'd like to publish these wallpapers to your own public collection.
+Please contact me on Twitter [@IceCoolTech](https://twitter.com/IceCoolTech) or email me at icecooltech1@gmail.com if you'd like to publish these wallpapers to your own public collection.
 
 # Popular Wallpapers
 
