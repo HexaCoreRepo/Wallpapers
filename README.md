@@ -12,6 +12,11 @@ Please contact me on Twitter [@IceCoolTech](https://twitter.com/IceCoolTech) or 
 
 # Changelog
 
+## 1.1.2
+- Added Heatwave and Heatwave (Gradient) wallpapers
+- README updated to 1.1.2 with the following changes:
+  - Twitter handle is now clickable 
+
 ## 1.1.1
 - README updated to 1.1.1 with the following changes:
   - Updated headers
